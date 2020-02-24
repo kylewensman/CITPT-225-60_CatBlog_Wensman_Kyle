@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Tigger",
+        "age":15,
+        "gender": "male",
+        "picture": "http://placekitten.com/200/300"
+    },
+    {
+        "name": "Amber",
+        "age":"2 almost 3",
+        "gender": "female",
+        "picture": "http://placekitten.com/400/330"
+    },
+    {
+        "name": "Cozmo",
+        "age":"2 almost 3",
+        "gender": "female",
+        "picture": "http://placekitten.com/400/330"
+    },
+    {
+        "name": "Meowzer",
+        "age":2,
+        "gender": "male",
+        "picture": "http://placekitten.com/400/330"
+    },
+    {
+        "name": "ImaKat",
+        "age":2,
+        "gender": "male",
+        "picture": "http://placekitten.com/400/330"
+    },
+    {
+        "name": "Pumpkin",
+        "age":2,
+        "gender": "female",
+        "picture": "http://placekitten.com/400/330"
+    }
+]
